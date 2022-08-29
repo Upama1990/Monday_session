@@ -1,1 +1,1 @@
-This is my new Git &  Github session.
+This is my new Git &  Github session on Monday
